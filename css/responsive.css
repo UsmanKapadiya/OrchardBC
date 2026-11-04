@@ -1,0 +1,427 @@
+@media only screen and (max-width: 1650px) {
+    .product-card-content {
+        right: 4%;
+    }
+
+    .floating-coconut-1 {
+        top: -5%;
+        right: 14px;
+        width: 230px;
+    }
+
+    .floating-coconut-2 {
+        top: -2%;
+        right: 160px;
+        width: 230px;
+    }
+}
+
+@media only screen and (max-width: 1399px) {
+    .cocoanut-water-bg-ice {
+        top: 480px;
+    }
+
+    .product-card-content {
+        right: 7%;
+    }
+
+    .floating-coconut-1 {
+        top: -3%;
+        right: 14px;
+        width: 200px;
+    }
+
+    .floating-coconut-2 {
+        top: -1%;
+        right: 160px;
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .highlight-wrap {
+        height: 250px;
+    }
+
+    .col-44 {
+        flex: 0 0 auto;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .col-28 {
+        flex: 0 0 auto;
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .masked-image {
+        height: 600px;
+    }
+
+    .masked-image.top {
+        height: 300px;
+    }
+
+    .masked-image.bottom {
+        height: 300px;
+    }
+
+    .floating-ice-1 {
+        top: 20%;
+        left: 80%;
+    }
+
+    .floating-ice-2 {
+        top: 60%;
+        left: 82%;
+    }
+
+    .floating-ice-3 {
+        top: 52%;
+        left: 10%;
+    }
+
+    .cocoanut-water-bg-ice {
+        top: 520px;
+    }
+
+    .floating-coconut-1 {
+        width: 180px;
+    }
+
+    .floating-coconut-2 {
+        width: 180px;
+        right: 130px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .row {
+        --bs-gutter-y: 1.5rem;
+    }
+
+    .section-padding {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .bottom-margin {
+        margin-bottom: 100px;
+    }
+
+    .top-margin {
+        margin-top: 100px;
+    }
+
+    .slider-content {
+        width: 75% !important;
+    }
+
+    .product-card-content {
+        right: 4%;
+    }
+
+    .masked-image {
+        height: 500px;
+    }
+
+    .masked-image.top {
+        height: 250px;
+    }
+
+    .masked-image.bottom {
+        height: 250px;
+    }
+
+    .product-coconut-img-wrap {
+        height: 400px;
+    }
+
+    .product-coconut-img {
+        height: 350px;
+    }
+
+    .product-coconut-img-1 {
+        top: 14%;
+        left: 25%;
+    }
+
+    .product-coconut-img-2 {
+        top: 5%;
+        left: 40%;
+    }
+
+    .floating-ice-1 {
+        top: 20%;
+        left: 72%;
+    }
+
+    .floating-ice-2 {
+        top: 60%;
+        left: 75%;
+    }
+
+    .floating-ice-3 {
+        top: 52%;
+        left: 13%;
+    }
+
+    .product-nutrition-img {
+        max-height: 450px;
+    }
+
+    .product-coconut-bg {
+        clip-path: url(#smoothBottomCurve-sm);
+    }
+
+    .about-banner {
+        clip-path: url(#smoothBottomCurve-sm);
+        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+            url('../img/about/bc-orchard-about-us-banner.jpg') no-repeat 90% center/cover;
+    }
+
+    .about-banner-text {
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+
+    .find-us-banner {
+        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+            url('../img/find-us/bc-orchard-find-us-banner.jpg') no-repeat 90% center/cover;
+        clip-path: url(#smoothBottomCurve-sm);
+    }
+
+    .cocoanut-water-bg-ice {
+        top: 630px;
+    }
+
+    /* .nutrition-container {
+        margin: 0 auto;
+    } */
+
+    .convex-cover {
+        height: 35px;
+    }
+
+    .floating-coconut-1 {
+        top: -4%;
+    }
+
+    .floating-coconut-2 {
+        top: -2%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .navbar {
+        position: static;
+        background-color: white;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .nav-link {
+        color: black;
+    }
+
+    .navbar {
+        padding: 0;
+    }
+
+    .navbar .nav-link:hover {
+        color: black;
+    }
+
+    .navbar .nav-link.active {
+        color: black;
+    }
+
+    .product-card-content {
+        right: auto;
+        left: 65%;
+    }
+
+    .col-28 {
+        flex: 0 0 auto;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        width: 30px;
+        height: 30px;
+        border-radius: 15px;
+    }
+
+    .carousel-control-icon {
+        font-size: 15px;
+    }
+
+    .product-coconut-img-1 {
+        top: 14%;
+        left: 15%;
+    }
+
+    .product-coconut-img-2 {
+        top: 5%;
+        left: 30%;
+    }
+
+    .floating-ice-1 {
+        top: 20%;
+        left: 72%;
+    }
+
+    .floating-ice-2 {
+        top: 60%;
+        left: 75%;
+    }
+
+    .floating-ice-3 {
+        top: 52%;
+        left: 0;
+    }
+
+    .floating-coconut-1 {
+        width: 150px;
+        top: -2%;
+    }
+
+    .floating-coconut-2 {
+        width: 150px;
+        top: -1%;
+        right: 120px;
+    }
+
+    .cocoanut-water-bg-ice {
+        top: auto;
+        bottom: -10px;
+    }
+
+    .pt-0-sm {
+        padding-top: 0 !important;
+    }
+
+    .nutrition-container {
+        max-width: none;
+    }
+
+    .nutrition-circle-container {
+        width: 260px;
+        margin: 0 auto;
+    }
+
+    .product-coconut-bg-2 {
+        background-image: url('../img/coconut/bc-orchard-water-wave-with-drops-mobile.jpg');
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .section-padding {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .bottom-margin {
+        margin-bottom: 70px;
+    }
+
+    .top-margin {
+        margin-top: 70px;
+    }
+
+    .slider-content {
+        width: 90% !important;
+    }
+
+    .product-card-content {
+        right: auto;
+        left: 55%;
+    }
+
+    .product-card-1::before {
+        background-position: 40% center;
+    }
+
+    .product-card-2::before {
+        background-position: 50% center;
+    }
+
+    .product-card-3::before {
+        background-position: 55% center;
+    }
+
+    .shop-wrap {
+        padding: 30px 30px 140px;
+    }
+
+    .feature-product-wrap {
+        max-width: auto;
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .feature-product-wrap h2 {
+        font-size: 40px;
+    }
+
+    .masked-image-content {
+        padding: 0 24px;
+        text-align: center;
+    }
+
+    /* .highlight-wrap {
+        height: 200px;
+    } */
+
+    .cocoanut-water-bg-ice {
+        bottom: 0;
+    }
+
+    .floating-coconut-1 {
+        width: 120px;
+        top: -2%;
+    }
+
+    .floating-coconut-2 {
+        width: 120px;
+        top: -1%;
+        right: 90px;
+    }
+
+    .testimonial-content-box {
+        width: 80%;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .custom-container {
+        max-width: 1340px;
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    .custom-container {
+        max-width: 1576px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .border-end-lg {
+        border-right: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .gy-md-0 {
+        --bs-gutter-y: 0 !important;
+    }
+
+    .border-start-md {
+        border-left: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+    }
+
+    .border-end-md {
+        border-right: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+    }
+}
